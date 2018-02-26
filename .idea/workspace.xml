@@ -1,227 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7529353d-50fe-483b-80da-84ce2bd1ad9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/resource/1/DistalPhalanxTW/DistalPhalanxTW_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/1/DistalPhalanxTW/DistalPhalanxTW_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/2/0/ElectricDevices_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/UCR_TS_Archive_2015/StarLightCurves_change_end/StarLightCurves_TEST8" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/50words/50words_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/50words/50words_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Adiac/Adiac_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Adiac/Adiac_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ArrowHead/ArrowHead_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ArrowHead/ArrowHead_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Beef/Beef_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Beef/Beef_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/BeetleFly/BeetleFly_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/BeetleFly/BeetleFly_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/BirdChicken/BirdChicken_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/BirdChicken/BirdChicken_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/CBF/CBF_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/CBF/CBF_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Car/Car_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Car/Car_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ChlorineConcentration/ChlorineConcentration_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ChlorineConcentration/ChlorineConcentration_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ChlorineConcentration_chage/ChlorineConcentration_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ChlorineConcentration_chage/ChlorineConcentration_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/CinC_ECG_torso/CinC_ECG_torso_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/CinC_ECG_torso/CinC_ECG_torso_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Coffee/Coffee_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Coffee/Coffee_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Computers/Computers_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Computers/Computers_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Cricket_X/Cricket_X_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Cricket_X/Cricket_X_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Cricket_Y/Cricket_Y_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Cricket_Y/Cricket_Y_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Cricket_Z/Cricket_Z_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Cricket_Z/Cricket_Z_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DiatomSizeReduction/DiatomSizeReduction_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DiatomSizeReduction/DiatomSizeReduction_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxOutlineAgeGroup/DistalPhalanxOutlineAgeGroup_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxOutlineAgeGroup/DistalPhalanxOutlineAgeGroup_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxOutlineAgeGroup_change/DistalPhalanxOutlineAgeGroup_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxOutlineAgeGroup_change/DistalPhalanxOutlineAgeGroup_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxOutlineCorrect/DistalPhalanxOutlineCorrect_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxOutlineCorrect/DistalPhalanxOutlineCorrect_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxTW/DistalPhalanxTW_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/DistalPhalanxTW/DistalPhalanxTW_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ECG200_change/ECG200_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ECG200_change/ECG200_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ECG5000_change/ECG5000_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ECG5000_change/ECG5000_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ECGFiveDays/ECGFiveDays_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ECGFiveDays/ECGFiveDays_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Earthquakes/Earthquakes_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Earthquakes/Earthquakes_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices/ElectricDevices_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices/ElectricDevices_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TEST3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TEST4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TRAIN1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TRAIN2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TRAIN3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ElectricDevices_change/ElectricDevices_TRAIN4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FISH/FISH_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FISH/FISH_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FaceAll/FaceAll_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FaceAll/FaceAll_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FaceFour/FaceFour_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FaceFour/FaceFour_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FacesUCR_change/FacesUCR_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FacesUCR_change/FacesUCR_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FordA/FordA_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FordA/FordA_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FordA/FordA_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FordB_change/FordB_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/FordB_change/FordB_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Gun_Point/Gun_Point_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Gun_Point/Gun_Point_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Ham/Ham_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Ham/Ham_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/HandOutlines/HandOutlines_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/HandOutlines/HandOutlines_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Haptics/Haptics_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Haptics/Haptics_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Herring/Herring_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Herring/Herring_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/InlineSkate/InlineSkate_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/InlineSkate/InlineSkate_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/InsectWingbeatSound/InsectWingbeatSound_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/InsectWingbeatSound/InsectWingbeatSound_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ItalyPowerDemand/ItalyPowerDemand_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ItalyPowerDemand/ItalyPowerDemand_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/LargeKitchenAppliances/LargeKitchenAppliances_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/LargeKitchenAppliances/LargeKitchenAppliances_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Lighting2/Lighting2_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Lighting2/Lighting2_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Lighting7/Lighting7_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Lighting7/Lighting7_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MALLAT/MALLAT_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MALLAT/MALLAT_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Meat/Meat_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Meat/Meat_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MedicalImages/MedicalImages_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MedicalImages/MedicalImages_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MiddlePhalanxOutlineAgeGroup_chage/MiddlePhalanxOutlineAgeGroup_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MiddlePhalanxOutlineAgeGroup_chage/MiddlePhalanxOutlineAgeGroup_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MiddlePhalanxOutlineCorrect/MiddlePhalanxOutlineCorrect_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MiddlePhalanxOutlineCorrect/MiddlePhalanxOutlineCorrect_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MiddlePhalanxTW/MiddlePhalanxTW_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MiddlePhalanxTW/MiddlePhalanxTW_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MoteStrain/MoteStrain_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/MoteStrain/MoteStrain_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/NonInvasiveFatalECG_Thorax1/NonInvasiveFatalECG_Thorax1_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/NonInvasiveFatalECG_Thorax1/NonInvasiveFatalECG_Thorax1_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/NonInvasiveFatalECG_Thorax2/NonInvasiveFatalECG_Thorax2_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/NonInvasiveFatalECG_Thorax2/NonInvasiveFatalECG_Thorax2_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/OSULeaf/OSULeaf_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/OSULeaf/OSULeaf_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/OSULeaf_change/OSULeaf_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/OSULeaf_change/OSULeaf_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/OliveOil/OliveOil_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/OliveOil/OliveOil_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/PhalangesOutlinesCorrect/PhalangesOutlinesCorrect_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/PhalangesOutlinesCorrect/PhalangesOutlinesCorrect_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Phoneme/Phoneme_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Phoneme/Phoneme_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Plane/Plane_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Plane/Plane_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxOutlineAgeGroup/ProximalPhalanxOutlineAgeGroup_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxOutlineAgeGroup/ProximalPhalanxOutlineAgeGroup_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxOutlineAgeGroup_change/ProximalPhalanxOutlineAgeGroup_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxOutlineAgeGroup_change/ProximalPhalanxOutlineAgeGroup_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxOutlineCorrect/ProximalPhalanxOutlineCorrect_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxOutlineCorrect/ProximalPhalanxOutlineCorrect_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxTW/ProximalPhalanxTW_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxTW/ProximalPhalanxTW_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxTW_change/ProximalPhalanxTW_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ProximalPhalanxTW_change/ProximalPhalanxTW_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/RefrigerationDevices/RefrigerationDevices_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/RefrigerationDevices/RefrigerationDevices_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ScreenType/ScreenType_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ScreenType/ScreenType_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ShapeletSim/ShapeletSim_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ShapeletSim/ShapeletSim_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ShapesAll/ShapesAll_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ShapesAll/ShapesAll_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SmallKitchenAppliances/SmallKitchenAppliances_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SmallKitchenAppliances/SmallKitchenAppliances_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SonyAIBORobotSurface/SonyAIBORobotSurface_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SonyAIBORobotSurface/SonyAIBORobotSurface_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SonyAIBORobotSurfaceII/SonyAIBORobotSurfaceII_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SonyAIBORobotSurfaceII/SonyAIBORobotSurfaceII_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST5" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TEST7" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_change_end/StarLightCurves_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_change_end/StarLightCurves_TEST3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_change_end/StarLightCurves_TEST4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_change_end/StarLightCurves_TEST7" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/StarLightCurves_change/StarLightCurves_change_end/StarLightCurves_TEST8" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Strawberry/Strawberry_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Strawberry/Strawberry_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SwedishLeaf/SwedishLeaf_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/SwedishLeaf/SwedishLeaf_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Symbols/Symbols_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Symbols/Symbols_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ToeSegmentation1/ToeSegmentation1_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ToeSegmentation1/ToeSegmentation1_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ToeSegmentation2/ToeSegmentation2_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/ToeSegmentation2/ToeSegmentation2_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Trace/Trace_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Trace/Trace_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Trace_change/Trace_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Trace_change/Trace_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/TwoLeadECG/TwoLeadECG_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/TwoLeadECG/TwoLeadECG_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Two_Patterns/Two_Patterns_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Two_Patterns/Two_Patterns_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Two_Patterns_change/Two_Patterns_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Two_Patterns_change/Two_Patterns_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/UWaveGestureLibraryAll/UWaveGestureLibraryAll_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/UWaveGestureLibraryAll/UWaveGestureLibraryAll_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/UWaveGestureLibraryAll_change/UWaveGestureLibraryAll_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/UWaveGestureLibraryAll_change/UWaveGestureLibraryAll_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/UWaveGestureLibraryAll_change/UWaveGestureLibraryAll_TEST3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Wine/Wine_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Wine/Wine_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/WordsSynonyms/WordsSynonyms_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/WordsSynonyms/WordsSynonyms_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Worms/Worms_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/Worms/Worms_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/WormsTwoClass/WormsTwoClass_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/WormsTwoClass/WormsTwoClass_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/synthetic_control/synthetic_control_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/synthetic_control/synthetic_control_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_X/uWaveGestureLibrary_X_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_X/uWaveGestureLibrary_X_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_X_change/uWaveGestureLibrary_X_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_X_change/uWaveGestureLibrary_X_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Y/uWaveGestureLibrary_Y_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Y/uWaveGestureLibrary_Y_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Y_change/uWaveGestureLibrary_Y_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Y_change/uWaveGestureLibrary_Y_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Z_change/uWaveGestureLibrary_Z_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Z_change/uWaveGestureLibrary_Z_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/uWaveGestureLibrary_Z_change/uWaveGestureLibrary_Z_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/wafer_change/wafer_TEST1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/wafer_change/wafer_TEST2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/wafer_change/wafer_TEST3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/wafer_change/wafer_TRAIN" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/yoga/yoga_TEST" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resource/move/yoga/yoga_TRAIN" afterPath="" />
-    </list>
+    <list default="true" id="7529353d-50fe-483b-80da-84ce2bd1ad9e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -231,10 +11,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="link_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="link_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/link_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
+            <state relative-caret-position="687">
               <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -253,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_op.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="db_op.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/db_op.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="840">
@@ -317,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="16" />
     <option name="width" value="1400" />
@@ -509,9 +289,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -884,16 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/link_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/source.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2592">
@@ -918,6 +688,16 @@
           <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
           <folding>
             <element signature="e#22#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/link_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="78" column="22" lean-forward="false" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
