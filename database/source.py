@@ -89,8 +89,8 @@ class Source(object):
 
     @staticmethod
     def list_transpose(arr1):
-        """
-        矩阵的转置
+        """矩阵的转置
+
         :param arr1: 待转置的二维矩阵
         :type arr1: list
         :return: 转置好的矩阵
