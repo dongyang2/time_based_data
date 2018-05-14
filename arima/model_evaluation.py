@@ -1,5 +1,5 @@
 # 模型评估
-import math
+# import math
 
 
 def mean_square_error(pre, ver):
